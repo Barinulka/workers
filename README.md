@@ -26,4 +26,3 @@ symfony server:start -d
 ```
 php bin/console doctrine:migration:migrate
 ```
-[`Назад`](../README.md)
